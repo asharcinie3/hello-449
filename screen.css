@@ -50,6 +50,7 @@ p, code {
 .header img {
     height: 50px;
     margin-right: 17px;
+    margin-bottom: 0;
 }
 
 .compPic {
