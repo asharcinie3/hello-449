@@ -54,8 +54,8 @@ p {
 
 .header img {
     height: 50px;
-    margin-right: 17px;
-    margin-bottom: auto; 
+    margin-right: 17px; 
+    align-self: flex-end;
 }
 
 .compPic {
