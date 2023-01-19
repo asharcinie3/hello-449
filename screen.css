@@ -48,8 +48,8 @@ p, code {
 }
 
 .header img {
-    height: 56px;
-    margin-left: 17px;
+    height: 50px;
+    margin-right: 17px;
 }
 
 .compPic {
@@ -63,7 +63,7 @@ p, code {
     bottom: 0;
     width: 1027px;
     height: 648px;
-    margin-top: -800px;
+    margin-top: -500px;
 }
 
 .history {
