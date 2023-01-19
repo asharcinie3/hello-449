@@ -25,7 +25,7 @@ p, code {
 
 .layout {
     display: grid;
-    grid-template-columns: 344px 344px;
+    grid-template-columns: 384px 373px;
     grid-template-rows: 56px 227px 333px;
     grid-gap: 32px;
     padding: 20px 20px;
@@ -54,6 +54,7 @@ p, code {
     grid-row: 3;
     background-color: #E9EAEC;
     border-radius: 20px;
+    padding: 32px 32px;
 }
 
 .example {
@@ -61,6 +62,7 @@ p, code {
     grid-row: 3;
     background-color: #E9EAEC;
     border-radius: 20px;
+    padding: 32px 32px;
 }
 
 .example pre {
