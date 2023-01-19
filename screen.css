@@ -50,14 +50,12 @@ p {
     grid-row: 1;
     display: flex;
     flex-direction: row;
-    padding-bottom: 0em;
 }
 
 .header img {
     height: 50px;
     margin-right: 17px;
-    position: absolute;
-    bottom: 0;
+    margin-bottom: auto; 
 }
 
 .compPic {
