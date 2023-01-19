@@ -30,7 +30,6 @@ p, code {
     grid-template-columns: 384px 373px;
     grid-template-rows: 56px 227px 333px;
     grid-gap: 32px 32px;
-    padding: 20px 20px;
     justify-content: center;
 }
 
@@ -56,7 +55,7 @@ p, code {
     grid-row: 3;
     background-color: #E9EAEC;
     border-radius: 20px;
-    padding-top: 32px;
+    padding: 0px;
 }
 
 .example {
