@@ -5,7 +5,7 @@ body {
 h1 {
     color: #424242;
     font-size: 56px;
-    padding-bottom: 32px;
+    padding: 0px 0px;
 }
 
 h3 {
@@ -29,7 +29,7 @@ p, code {
     display: grid;
     grid-template-columns: 384px 373px;
     grid-template-rows: 56px 227px 333px;
-    grid-gap: 32px;
+    grid-gap: 32px 32px;
     padding: 20px 20px;
     justify-content: center;
 }
@@ -56,7 +56,7 @@ p, code {
     grid-row: 3;
     background-color: #E9EAEC;
     border-radius: 20px;
-    padding: 32px 32px;
+    padding-top: 32px;
 }
 
 .example {
