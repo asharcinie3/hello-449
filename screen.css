@@ -32,8 +32,8 @@ p, code {
 
 .layout {
     display: grid;
-    grid-template-columns: 384px 373px;
-    grid-template-rows: 56px 227px 333px;
+    grid-template-columns: 384px 384px;
+    grid-template-rows: 56px 227px 373px;
     grid-gap: 32px 32px;
     justify-content: center;
     margin-top: 100px;
@@ -81,8 +81,10 @@ p, code {
 }
 
 #code code {
+    padding: 32px 32px;
     width: 100%;
     text-align: center;
     color: #fff;
+    font-size: 14px;
 }
 
