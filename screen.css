@@ -73,18 +73,17 @@ p, code {
     overflow: hidden;
 }
 
-#code {
-    width: 373px;
-    height: 207px;
+#codeDisplay {
+    width: 384px;
+    height: 250px;
     background-color: #424242;
     margin-left: -32px;
+    padding: 32px 32px;
 }
 
-#code code {
-    padding: 32px 32px;
-    width: 100%;
+#code {
     text-align: center;
     color: #fff;
-    font-size: 14px;
+    font-size: 18px;
 }
 
