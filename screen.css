@@ -78,5 +78,7 @@ p, code {
 #code code {
     width: 100%;
     text-align: center;
+    white-space: pre-line;
+    color: #fff;
 }
 
