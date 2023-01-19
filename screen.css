@@ -23,6 +23,10 @@ p, code {
     font-size: 18px;
 }
 
+p {
+    margin-top: 22px;
+}
+
 #block {
     background-color: #424242;
     width: 100%;
