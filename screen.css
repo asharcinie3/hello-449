@@ -29,5 +29,28 @@ p, code {
     grid-template-rows: 56px 227px 333px;
     grid-gap: 32px;
     padding: 20px 20px;
+    border-radius: 20px;
+}
+
+.header {
+    grid-column: 1 / span 2;
+    grid-row: 1;
+}
+
+.compPic {
+    grid-column: 1 / span 2;
+    grid-row: 2;
+}
+
+.history {
+    grid-column: 1;
+    grid-row: 3;
+    background-color: #E9EAEC;
+}
+
+.example {
+    grid-column: 2;
+    grid-row: 3;
+    background-color: #E9EAEC;
 }
 
