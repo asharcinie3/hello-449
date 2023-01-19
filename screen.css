@@ -22,3 +22,11 @@ p, code {
     height: 15px;
     top: 0;
 }
+
+.layout {
+    display: grid;
+    grid-template-columns: 344px 344px;
+    grid-template-rows: 56px 227px 333px;
+    grid-gap: 32px;
+    padding: 20px 20px;
+}
