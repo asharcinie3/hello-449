@@ -74,5 +74,6 @@ p, code {
 .example pre {
     background-color: #424242;
     color: #fff;
+    justify-content: left;
 }
 
