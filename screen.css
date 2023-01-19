@@ -48,7 +48,8 @@ p, code {
 }
 
 .header img {
-    height: 100%;
+    height: 56px;
+    margin-left: 17px;
 }
 
 .compPic {
