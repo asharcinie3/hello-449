@@ -71,7 +71,7 @@ p, code {
     padding-right: 32px;
 }
 
-.example pre {
+#code {
     background-color: #424242;
     color: #fff;
     justify-content: left;
