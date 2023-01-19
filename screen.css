@@ -63,7 +63,8 @@ p, code {
     bottom: 0;
     width: 1027px;
     height: 648px;
-    margin-top: -500px;
+    margin-top: -300px;
+    justify-content: center;
 }
 
 .history {
