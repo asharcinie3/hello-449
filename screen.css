@@ -50,7 +50,7 @@ p {
     grid-row: 1;
     display: flex;
     flex-direction: row;
-    bottom: 0;
+    padding-bottom: 0em;
 }
 
 .header img {
@@ -96,7 +96,7 @@ p {
     background-color: #424242;
     margin-left: -32px;
     padding-left: 32px;
-    margin-bottom: -10px;
+    padding-bottom: 32px;
 }
 
 #code {
