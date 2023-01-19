@@ -96,11 +96,11 @@ p {
     background-color: #424242;
     margin-left: -32px;
     padding-left: 32px;
-    margin-top: -7px;
     margin-bottom: -10px;
 }
 
 #code {
+    margin-top: -7px;
     text-align: center;
     font-family: Courier, monospace;
     color: #fff;
