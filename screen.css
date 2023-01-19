@@ -83,10 +83,11 @@ p, code {
 
 #codeDisplay {
     width: 350px;
-    height: 235px;
+    height: 245px;
     background-color: #424242;
     margin-left: -32px;
     padding-left: 32px;
+    margin-top: -7px;
 }
 
 #code {
